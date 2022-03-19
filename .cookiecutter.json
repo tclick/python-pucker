@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Timothy H. Click, Ph.D.",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "tclick@briarcliff.edu",
+  "friendly_name": "Pucker",
+  "github_user": "tclick",
+  "license": "GPL-3.0",
+  "package_name": "pucker",
+  "project_name": "python-pucker",
+  "version": "0.1.0"
+}
